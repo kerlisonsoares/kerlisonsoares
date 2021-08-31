@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  Meu nome: Kerlison,sou <strong>Estudante de Programação</strong>.<br />
+  <strong>Meu nome: Kerlison,sou <strong>Estudante de Programação</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
