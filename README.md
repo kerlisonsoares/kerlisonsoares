@@ -51,23 +51,4 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
  <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
 
 
-<img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
-  
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/>
 
-</p>
-
-## ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=keidsondesigner&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=keidsondesigner&hide=css,java,html&theme=tokyonight">
-</p>
-
-
-- Estudando programação
-- 20 anos 
-- 
