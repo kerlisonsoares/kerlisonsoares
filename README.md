@@ -26,14 +26,6 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 
 
-<img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
-  
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/>
-
-</p>
 
 ## ⭐ GitHub Stats
 
