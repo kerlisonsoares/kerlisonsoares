@@ -23,8 +23,8 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
  <div>
-  <a href="https://github.com/KERLISOON">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KERLISOON_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KERLISOON&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/kerlisonsoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerlisonsoares_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlisonsoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
