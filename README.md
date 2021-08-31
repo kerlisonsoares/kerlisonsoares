@@ -22,5 +22,10 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   💼 Habilidades: <strong>Pithon.
 
   <p align="center">
+  ?? Habilidades: <strong>Javascript, Figma, GitHub, Vercel, Photoshop.</strong>
+</p>
+
+<p align="center">
   ??  Estudando: <strong>JavaScript, Typescript e React.</strong>
 </p>
+
