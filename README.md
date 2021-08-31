@@ -24,10 +24,3 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 
 
-
-## ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kerlisonsoares=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kerlisonsoares=css,java,html&theme=tokyonight">
-</p>
