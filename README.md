@@ -22,8 +22,6 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   🚀  Estudando: <strong>JavaScript e Python.</strong>
 </p>
 
-<
-
 
 
 
