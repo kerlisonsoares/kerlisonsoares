@@ -21,10 +21,12 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 <p align="center">
   🚀  Estudando: <strong>JavaScript e Python.</strong>
 </p>
-
  <div>
-  <a href="https://github.com/kerlison soares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerlisonsoares_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlisonsoares&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ </p>
 
+## ⭐ GitHub Stats
+<a href="https://github.com/kerlisonsoares">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerlisonsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
