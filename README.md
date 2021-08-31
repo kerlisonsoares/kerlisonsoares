@@ -20,3 +20,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 <p align="center">
   💼 Habilidades: <strong>Pithon.
+
+  <p align="center">
+  ??  Estudando: <strong>JavaScript, Typescript e React.</strong>
+</p>
