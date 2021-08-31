@@ -28,6 +28,6 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=keidsondesigner&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=keidsondesigner&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kerlisonsoares_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kerlisonsoares=css,java,html&theme=tokyonight">
 </p>
