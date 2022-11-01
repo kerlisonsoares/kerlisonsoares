@@ -34,7 +34,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   
 
   
- <img scr= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <img scr= "https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=whitelink=https://www.email.com/in/devkerlison/" /></a>
   
   
   <a href="https://www.linkedin.com/in/kerlison-soares-066714255//" alt="Linkedin">
