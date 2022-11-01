@@ -23,6 +23,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
  <div>
  </p>
+ 
  ## 💻 Technologies & Tools
 
 <p align="center">
