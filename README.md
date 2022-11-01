@@ -44,7 +44,7 @@ target="_blank"></a>
 <p align="center">
   
  
-   img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
+  <target="_blank"></a> src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" <target="_blank"></a> 
   
   <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
   
