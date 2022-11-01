@@ -32,7 +32,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <a href="https://www.instagram.com/kerliison_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kerliison_/"/></a>
 
-  <a href="https://https://www.linkedin.com/in/kerlison-soares-066714255//" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/kerlison-soares-066714255//" alt="Linkedin">
    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KerlisonSoares/" /></a>
 </p>   
 
