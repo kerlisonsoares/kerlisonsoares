@@ -58,5 +58,5 @@ target="_blank"></a>
  </div>
  
  
- 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+ 	<h1 align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
