@@ -35,6 +35,9 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </div>
   
   ##
+     <p align="center">
+  💌 Envie uma mensagem: ⤵️
+</p>
  
   <a href="https://instagram.com/kerliison_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   
