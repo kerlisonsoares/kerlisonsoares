@@ -34,11 +34,11 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   
 
   <a href="https://www.mail.google.com/mail/u/2/#inbox?compose=new/" alt="email">
- <img scr="https://img.shields.io/badge//Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/"/></a>
+ <img scr="https://img.shields.io/badge//Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.email.com/devkerlison/"/></a>
   
   
   <a href="https://www.linkedin.com/in/kerlison-soares-066714255//" alt="Linkedin">
-   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KerlisonSoares/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KerlisonSoares/" /></a>
 </p>   
 
   
