@@ -29,6 +29,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <h1 align="center"> Linguagem e Ferramentas:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conecte-se comigo</h1>
+ 
  <div>
   
 <p align="center">
