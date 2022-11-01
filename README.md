@@ -46,7 +46,8 @@ target="_blank"></a>
  
  <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
  <img scr="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25"/>
-## ⭐ GitHub Stats
+
+  ## ⭐ GitHub Stats
 <a href="https://github.com/kerlisonsoares">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerlisonsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block"><br>
