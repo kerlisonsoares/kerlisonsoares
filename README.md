@@ -33,7 +33,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kerliison_/"/></a>
   
 
-  <a href="https://mail.google.com/mail/u/2/#inbox?compose=new/" alt="email">
+  <a href="https://www.mail.google.com/mail/u/2/#inbox?compose=new/" alt="email">
  <img scr="https://img.shields.io/badge//Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/"/></a>
   
   
