@@ -58,6 +58,6 @@ target="_blank"></a>
  </div>
  
  
- 	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+ 	<img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me"
 
 
