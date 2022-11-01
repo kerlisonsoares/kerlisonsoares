@@ -23,6 +23,12 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
  <div>
  </p>
+ ## 💻 Technologies & Tools
+
+<p align="center">
+  
+ 
+ <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/kerlisonsoares">
