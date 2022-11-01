@@ -43,7 +43,7 @@ target="_blank"></a>
 
 <p align="center">
   
-   <a href="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
  
   <target="_blank"></a> src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" <target="_blank"></a> 
   
