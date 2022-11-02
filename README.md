@@ -19,9 +19,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 <p align="center">
   🚀  Estudando: <strong>JavaScript e Python.</strong>
-</p>
- <div>
- </p>
+
  
   <p align="center">
 💌  Envie uma mensagem: ⤵️
