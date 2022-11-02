@@ -58,8 +58,7 @@ target="_blank"></a>
   
  
   
-<br/>
-<br/>
+
   
   
   <h1 align="center"> My Github Stats </h1>
