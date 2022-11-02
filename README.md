@@ -58,15 +58,11 @@ target="_blank"></a>
   
 <div>
   <a href="#">
-    <img height="180em" src="https://github.com/kerlisonsoares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=329BC8&text_color=ffffff&icon_color=329BC8&border_color=329BC8&locale=pt-br"/>
-       <img height="180em" src="https://github.com/kerlisonsoares&layout=compact&langs_count=7&theme=github_dark&title_color=329BC8&text_color=ffffff&border_color=329BC8&locale=pt-br"/>
+    <img height="180em" src="https://github.com/kerlisonsoares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=329BC8&text_color=ffffff&icon_color=329BC8&border_color=329BC8&locale=pt-br"/><img height="180em" src="https://github.com/kerlisonsoares&layout=compact&langs_count=7&theme=github_dark&title_color=329BC8&text_color=ffffff&border_color=329BC8&locale=pt-br"/>
   </a>
 </div>
   
-      <p align="center">
-<a href="https://github.com/natanvalimcardoso/github-readme-activity-graph"><img alt="natanvalimcardoso Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=natanvalimcardoso&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
-  <br/>
+ 
 
   
  
