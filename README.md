@@ -23,7 +23,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
  <div>
  </p>
 
-
+<p align="center">
 💌  Envie uma mensagem: ⤵️
 </p>
  <div>
