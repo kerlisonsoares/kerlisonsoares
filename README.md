@@ -56,13 +56,6 @@ target="_blank"></a>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerlisonsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block"><br> 
   
- 
-  
-<br/>
-<br/>
-  
-<h1 align="center"> My Github Stats </h1>
-  
 <div>
   <a href="#">
     <img height="180em" src="https://github.com/kerlisonsoaresshow_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=329BC8&text_color=ffffff&icon_color=329BC8&border_color=329BC8&locale=pt-br"/>
@@ -74,5 +67,4 @@ target="_blank"></a>
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
  
- 
-<h1 align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
